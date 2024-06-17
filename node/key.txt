@@ -1,0 +1,4 @@
+const vapidKeys = {
+  publicKey: 'BPS-8Z2AI_3OL-bBv0Grwbu9rSO67lI0aT6G5gybLtmW4ygsfUST7BBPCTk7d2FxwwvhOjzzAzkP4C8crq5Gj1A',
+  privateKey: 'y5YeIbYGRqqX7aUxA-uI_dQ4JtmuQxtM07t8f5K45-c'
+};
